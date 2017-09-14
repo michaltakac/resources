@@ -13,3 +13,4 @@ Currently, this list is not sorted and I didn't put much thinking into the struc
 - 2017-09-14 - ClojureScript Websocket Reagent Game - [tutorial](https://dianjin.github.io/clojurescript-websocket-reagent-game/)
 - 2017-09-14 - ClojureScript Cheatsheet - [cheatsheet](http://cljs.info/cheatsheet/)
 - 2017-09-14 - How learning Smalltalk can make you a better developer - [article](https://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer)
+- 2017-09-14 - When Should You Use Clojure's Object-Oriented Features? - [article](http://thinkrelevance.com/blog/2013/11/07/when-should-you-use-clojures-object-oriented-features)
