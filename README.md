@@ -6,6 +6,7 @@ Currently, this list is not sorted and I didn't put much thinking into the struc
 
 ## Programming
 
+- 2017-09-16 - Readable Clojure - [article](http://tonsky.me/blog/readable-clojure/)
 - 2017-09-14 - Programming Clojure, Smalltalk-style - [article](http://robert.kra.hn/projects/cloxp)
 - 2017-09-14 - (CZ) Smalltalk prakticky - [presentation](https://www.slideshare.net/tomaskukol/smalltalk-prakticky)
 - 2017-09-14 - A Turing Machine Simulator Written in Pharo - [article](https://medium.com/concerning-pharo/a-turing-machine-simulator-written-in-pharo-fda74e1a705b)
