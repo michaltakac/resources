@@ -6,6 +6,7 @@ Currently, this list is not sorted and I didn't put much thinking into the struc
 
 ## Programming
 
+- 2017-10-04 - Sente Style Multiplayer Snake in ClojureScript (includes screencast) - [article](http://timothypratley.blogspot.co.id/2016/03/sente-style-multiplayer-snake-in.html)
 - 2017-09-16 - Readable Clojure - [article](http://tonsky.me/blog/readable-clojure/)
 - 2017-09-14 - Programming Clojure, Smalltalk-style - [article](http://robert.kra.hn/projects/cloxp)
 - 2017-09-14 - (CZ) Smalltalk prakticky - [presentation](https://www.slideshare.net/tomaskukol/smalltalk-prakticky)
@@ -15,7 +16,6 @@ Currently, this list is not sorted and I didn't put much thinking into the struc
 - 2017-09-14 - ClojureScript Cheatsheet - [cheatsheet](http://cljs.info/cheatsheet/)
 - 2017-09-14 - How learning Smalltalk can make you a better developer - [article](https://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer)
 - 2017-09-14 - When Should You Use Clojure's Object-Oriented Features? - [article](http://thinkrelevance.com/blog/2013/11/07/when-should-you-use-clojures-object-oriented-features)
-- 2017-10-04 - Sente Style Multiplayer Snake in ClojureScript (includes screencast) - [article](http://timothypratley.blogspot.co.id/2016/03/sente-style-multiplayer-snake-in.html)
 
 ## Investing/Money
 
