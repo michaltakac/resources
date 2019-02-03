@@ -18,6 +18,10 @@ Currently, this list is not sorted and I didn't put much thinking into the struc
 - 2017-09-14 - How learning Smalltalk can make you a better developer - [article](https://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer)
 - 2017-09-14 - When Should You Use Clojure's Object-Oriented Features? - [article](http://thinkrelevance.com/blog/2013/11/07/when-should-you-use-clojures-object-oriented-features)
 
+## Human Advancement Research
+
+- 2019-02-03 - Utopian hacks (Gotz Bachmann) - [article](https://limn.it/articles/utopian-hacks/)
+
 ## Investing/Money
 
 - 2017-09-16 - Dollar-Cost Averaging (DCA) - [article](http://www.investopedia.com/terms/d/dollarcostaveraging.asp)
